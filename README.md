@@ -1,4 +1,6 @@
 # Sandwich Club Project Starter Code
+this is a copy for my Work at the udaCitiy Nano degree
+the original code ist at [Sandwich Club app starter code.](https://github.com/udacity/sandwich-club-starter-code)
 
 ## Project Overview
 In this project, you will complete the **Sandwich Club** app to
